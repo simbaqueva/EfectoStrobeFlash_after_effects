@@ -1,4 +1,4 @@
-Progreso: He leído `EfectoStrobeFlash.jsx` y ahora explico qué hace.
+explico qué hace.
 
 - Resumen: crea en After Effects una composición llamada "Efecto Strobe / Flash" con dos sólidos blancos que parpadean rítmicamente.
 - Comprobación inicial: verifica que haya un proyecto AE abierto; si no, muestra un alert y sale.
